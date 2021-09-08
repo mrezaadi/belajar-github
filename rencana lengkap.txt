@@ -4,3 +4,5 @@ Rencana Lengkap
 - Mata kuliah Struktur Data jadi prioritas utama
 - Membuat metode Machine Learning dari buku
 
+#Buat Fitur 1
+- Ikut komunitas luar kampus
