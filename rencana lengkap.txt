@@ -4,6 +4,5 @@ Rencana Lengkap
 - Mata kuliah Struktur Data jadi prioritas utama
 - Membuat metode Machine Learning dari buku
 
-#Buat Fitur 2
-- Menjadi mentor di UNIDAY Smanda
-- Menjadi panitia di UNIDAY Smanda
+#Buat Fitur 1
+- Ikut komunitas luar kampus
